@@ -1,0 +1,8 @@
+*.py[co]
+doc/epydoc
+doc/sphinx/build
+.ropeproject
+build
+dist
+*.egg-info
+examples/storage.db
